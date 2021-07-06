@@ -11,5 +11,5 @@ Gtkwave is optional.
 
 3) Type the following commands:\
   iverilog -o cpu.out *.v     (Compile the verilog files and generate a file named "cpu.out")\
-  vvp cpu.out                 (Run output file and generate output.txt which shows the values in the registers & data memory)
+  vvp cpu.out                 (Run output file and generate output.txt which shows the values in the registers)
 
